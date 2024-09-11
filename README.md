@@ -3,11 +3,15 @@
 
 - 🔭 I’m currently working on **Sales and customer management system.**
 
-- 🌱 I’m currently learning **UX/UI**
+- 🔭 I am currently doing **UX/UI** Design work
+
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Backend projects**
 
 - 👨‍💻 All of my projects are available at [https://portafolio-next-nine.vercel.app/](https://portafolio-next-nine.vercel.app/)
+
+- Web application with useful tools [https://effitools.netlify.app/](https://effitools.netlify.app/)
 
 - 📝 I regularly write articles on [working on it, I will publish it soon](working on it, I will publish it soon)
 
