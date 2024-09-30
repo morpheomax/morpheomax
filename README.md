@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Max Sandoval</h1>
 <h3 align="center">I am a Fullstack developer, I transform ideas into web experiences, I'm from Chile!!.</h3>
 
-- 🔭 I’m currently working on **Sales and customer management system.**
+- 🔭 I currently develop management systems for various clients, independently or freelance.
 
-- 🔭 I am currently doing **UX/UI** Design work
+- 🔭 **UX/UI** Design.
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I am currently studying for a diploma in **Data Science**
 
 - 👯 I’m looking to collaborate on **Backend projects**
 
-- 👨‍💻 All of my projects are available at [https://portafolio-next-nine.vercel.app/](https://portafolio-next-nine.vercel.app/)
+- 👨‍💻 All of my projects are available on [https://portafolio-next-nine.vercel.app/](https://portafolio-next-nine.vercel.app/)
 
-- Web application with useful tools [https://effitools.netlify.app/](https://effitools.netlify.app/)
+- 🛠️ Simple web application with useful tools  [https://effitools.netlify.app/](https://effitools.netlify.app/)
 
 - 📝 I regularly write articles on [working on it, I will publish it soon](working on it, I will publish it soon)
 
