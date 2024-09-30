@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **maximiliano.sandoval@gmail.com**
 
-- ⚡ Fun fact **By profession I am a cultural manager, musician, music producer, programmer and soon to be UX/UI, and the list goes on.**
+- ⚡ Fun fact **By profession I am a cultural manager, musician, music producer, programmer and UX/UI Designer, Data Science Specialist**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
