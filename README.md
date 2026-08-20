@@ -1,35 +1,403 @@
-<h1 align="center">Hi 👋, I'm Max Sandoval</h1>
-<h3 align="center">I am a Fullstack developer, I transform ideas into web experiences, I'm from Chile!!.</h3>
+<div align="center">
 
-- 🔭 I currently develop management systems for various clients, independently or freelance.
+# Max Sandoval
 
-- 🔭 **UX/UI** Design.
+### Desarrollo Full-Stack · Ciencia de Datos · Business Intelligence · Automatización
 
-- 🌱 I am currently studying for a diploma in **Data Science**
+**Construyendo soluciones donde el desarrollo, los datos y el negocio se conectan.**
 
-- 👯 I’m looking to collaborate on **Backend projects**
+<br>
 
-- 👨‍💻 All of my projects are available on [https://portafolio-next-nine.vercel.app/](https://portafolio-next-nine.vercel.app/)
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-innext.cl-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://innext.cl)
+[![GitHub](https://img.shields.io/badge/GitHub-morpheomax-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/morpheomax)
 
-- 🛠️ Simple web application with useful tools  [https://effitools.netlify.app/](https://effitools.netlify.app/)
+</div>
 
-- 📝 I regularly write articles on [working on it, I will publish it soon](working on it, I will publish it soon)
+---
 
-- 💬 Ask me about **react js, Javascript, node js, SQL**
+## Sobre mí
 
-- 📫 How to reach me **maximiliano.sandoval@gmail.com**
+Soy **Desarrollador Full-Stack e Ingeniero en Ciencia de Datos**, con foco en la construcción de aplicaciones web, sistemas empresariales, automatización de procesos y soluciones basadas en datos.
 
-- ⚡ Fun fact **By profession I am a cultural manager, musician, music producer, programmer and UX/UI Designer, Data Science Specialist**.
+Mi perfil combina distintas disciplinas:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/maxsandovalc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/maxsandovalc" height="30" width="40" /></a>
-</p>
+**Desarrollo de Software · Datos · Business Intelligence · Automatización · UX/UI**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Trabajo entendiendo la solución como un sistema completo: desde el problema de negocio y la experiencia del usuario, hasta la aplicación, las integraciones, las bases de datos y la capa analítica.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=morpheomax&show_icons=true&locale=en&layout=compact" alt="morpheomax" /></p>
+```text
+Problema de negocio
+        ↓
+Procesos y datos
+        ↓
+      UX / UI
+        ↓
+     Software
+        ↓
+     Análisis
+        ↓
+   Automatización
+        ↓
+  Valor para el negocio
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morpheomax&show_icons=true&locale=en" alt="morpheomax" /></p>
+---
 
+## Qué hago
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Desarrollo Full-Stack
+
+Diseño y desarrollo aplicaciones web, herramientas internas y productos digitales.
+
+* Aplicaciones web
+* Plataformas internas
+* Landing pages administrables
+* Integraciones mediante API
+* Autenticación
+* Interfaces responsivas
+* Arquitecturas basadas en componentes
+* Servicios backend
+* Sistemas conectados a bases de datos
+
+</td>
+
+<td width="50%" valign="top">
+
+### Datos y Business Intelligence
+
+Transformo datos operacionales en información útil para análisis y toma de decisiones.
+
+* Modelamiento de datos
+* ETL / ELT
+* Calidad de datos
+* Diseño de KPI
+* Business Intelligence
+* Dashboards
+* Power BI
+* DAX
+* Analítica comercial
+* Automatización de reportes
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Automatización
+
+Desarrollo soluciones para reducir tareas manuales y conectar sistemas, datos y procesos.
+
+* Automatización con Python
+* Google Apps Script
+* Integraciones mediante API
+* Automatización CRM
+* Extracción de datos
+* Procesamiento de información
+* Pipelines de reporting
+* Reglas de negocio
+* Automatización de workflows
+
+</td>
+
+<td width="50%" valign="top">
+
+### UX / UI
+
+Diseño e implemento interfaces con foco en claridad, consistencia y experiencia de usuario.
+
+* UX/UI
+* Figma → Código
+* Diseño responsivo
+* Arquitectura de información
+* Sistemas de diseño
+* Componentes reutilizables
+* Interfaces para dashboards
+* Prototipado rápido
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stack tecnológico
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=astro,react,nextjs,ts,js,tailwind,html,css&theme=dark" />
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python&theme=dark" />
+
+<br><br>
+
+### Bases de datos
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+<br><br>
+
+### Herramientas e infraestructura
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,firebase,docker&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`SQL Server` · `Power BI` · `DAX` · `Pandas` · `NumPy` · `Jupyter`
+
+`Dynamics 365` · `Dataverse` · `REST APIs` · `Google Apps Script` · `cPanel`
+
+</div>
+
+---
+
+## Desarrollo + Datos + Negocio
+
+Uno de los principales focos de mi trabajo está en la intersección entre ingeniería de software, datos y procesos empresariales.
+
+```text
+              ┌─────────────────────┐
+              │      SOFTWARE       │
+              │     ENGINEERING     │
+              └──────────┬──────────┘
+                         │
+            ┌────────────▼────────────┐
+            │                         │
+     ┌──────▼──────┐           ┌──────▼──────┐
+     │    DATOS    │           │   NEGOCIO   │
+     │             │◄─────────►│             │
+     │ Analytics   │           │ Procesos    │
+     │ BI          │           │ CRM         │
+     │ Automation  │           │ Estrategia  │
+     └─────────────┘           └─────────────┘
+```
+
+Mi objetivo es construir sistemas capaces de:
+
+```text
+Capturar → Procesar → Analizar → Visualizar → Decidir → Automatizar
+```
+
+---
+
+## Sistemas empresariales y CRM
+
+Parte importante de mi experiencia está relacionada con la transformación de procesos comerciales y operacionales en sistemas estructurados y medibles.
+
+Trabajo con:
+
+* Microsoft Dynamics 365
+* Dataverse
+* Diseño de procesos CRM
+* Pipeline comercial
+* Forecast
+* Calidad de datos
+* Reglas de negocio
+* Power BI
+* DAX
+* Analítica comercial
+* Automatización de reporting
+* Estandarización de procesos
+* Integración de sistemas
+
+El objetivo no es solamente almacenar información, sino construir sistemas que permitan mejorar la **trazabilidad, el análisis y la toma de decisiones**.
+
+---
+
+## Proyectos destacados
+
+### FireSolution
+
+Aplicación web enfocada en soluciones y sistemas de protección contra incendios.
+
+`Full-Stack` `Engineering` `Web Application`
+
+---
+
+### Innext Video Recorder
+
+Aplicación web para captura y procesamiento de video directamente desde el navegador.
+
+`TypeScript` `Web APIs` `Frontend Engineering`
+
+---
+
+### Consulta RUT
+
+Herramientas desarrolladas en Python para consulta, procesamiento y clasificación automatizada de información.
+
+`Python` `Automation` `Data Processing`
+
+---
+
+### Herramientas de Scraping y Datos
+
+Utilidades para extracción, procesamiento y estructuración de información desde distintas fuentes.
+
+`Python` `Web Scraping` `Data Engineering` `Automation`
+
+---
+
+### Toolkits
+
+Colección de herramientas orientadas a automatizar tareas recurrentes y resolver problemas operacionales.
+
+`React` `Vite` `Tailwind CSS`
+
+---
+
+### Análisis de datos Uber
+
+Proyecto de análisis exploratorio de datos utilizando registros de viajes y visualización interactiva.
+
+`Python` `Pandas` `NumPy` `Streamlit`
+
+---
+
+## Innext Solutions
+
+También desarrollo **[Innext Solutions](https://innext.cl)** como espacio para la creación de productos digitales, herramientas de automatización y soluciones tecnológicas para empresas.
+
+El objetivo es combinar distintas capacidades dentro de una misma solución:
+
+```text
+Estrategia
+    ↓
+  UX / UI
+    ↓
+ Software
+    ↓
+   Datos
+    ↓
+Automatización
+    ↓
+Valor de negocio
+```
+
+Uno de mis focos actuales es construir arquitecturas y bases reutilizables que permitan desarrollar nuevos productos de forma más rápida y mantenible.
+
+---
+
+## Cómo abordo el desarrollo
+
+```text
+01. Entender el problema
+        ↓
+02. Modelar el proceso
+        ↓
+03. Entender los datos
+        ↓
+04. Diseñar la experiencia
+        ↓
+05. Construir la solución
+        ↓
+06. Medir
+        ↓
+07. Automatizar
+        ↓
+08. Mejorar
+```
+
+### Principios
+
+**El problema antes que la tecnología**
+
+Primero entender qué debe resolverse. Después elegir el stack.
+
+**Reutilizar antes que reconstruir**
+
+Prefiero componentes, servicios y arquitecturas que puedan evolucionar y volver a utilizarse.
+
+**Los datos son parte del producto**
+
+Una aplicación no debería limitarse a ejecutar procesos. También debería generar información que permita comprenderlos y mejorarlos.
+
+**Prototipar rápido, construir para crecer**
+
+Validar ideas con velocidad, manteniendo una arquitectura que permita evolucionar hacia soluciones mantenibles y escalables.
+
+---
+
+## En qué estoy trabajando actualmente
+
+```yaml
+software:
+  - arquitectura full-stack
+  - backend engineering
+  - arquitecturas reutilizables
+  - testing
+  - performance
+  - observabilidad
+
+datos:
+  - ciencia de datos
+  - estadística aplicada
+  - business intelligence
+  - data engineering
+  - machine learning
+
+automatizacion:
+  - automatización de procesos
+  - integración de sistemas
+  - automatización inteligente
+  - desarrollo asistido por IA
+
+productos:
+  - SaaS
+  - herramientas internas
+  - plataformas empresariales
+  - productos digitales
+```
+
+---
+
+## Repositorios
+
+En este perfil encontrarás proyectos relacionados con:
+
+<div align="center">
+
+`Full-Stack Development`
+
+`Data Science`
+
+`Business Intelligence`
+
+`Automatización`
+
+`React` · `Astro` · `TypeScript` · `Python` · `SQL` · `Power BI`
+
+</div>
+
+Los repositorios reflejan tanto proyectos terminados como experimentación técnica, investigación y herramientas desarrolladas para resolver problemas específicos.
+
+---
+
+<div align="center">
+
+## Construyamos algo útil.
+
+### Desarrollo × Datos × Automatización × Negocio
+
+Santiago, Chile
+
+<br>
+
+[![Innext Solutions](https://img.shields.io/badge/Innext_Solutions-innext.cl-2563EB?style=flat-square)](https://innext.cl)
+[![GitHub](https://img.shields.io/badge/GitHub-morpheomax-181717?style=flat-square\&logo=github)](https://github.com/morpheomax)
+
+</div>
